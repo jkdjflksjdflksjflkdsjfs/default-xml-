@@ -1,6 +1,6 @@
 <div align=center>   
-
-![DEFAULT小组](./图床/小组logo.png)
+    ![DEFAULT小组](./图床/小组logo.png)
+</div> 
 
 ## 简介
 
