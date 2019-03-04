@@ -1,4 +1,6 @@
-<div align=center>   ![DEFAULT小组](./图床/小组logo.png)
+<div align=center>   
+
+![DEFAULT小组](./图床/小组logo.png)
 
 ## 简介
 
