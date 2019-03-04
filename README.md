@@ -1,7 +1,5 @@
-<div align=center>   
-    ![DEFAULT小组](./图床/小组logo.png)
-</div> 
-
+ <div align=center><img  src="./图床/小组logo.png"/></div>
+ 
 ## 简介
 
 | 组名 | default组（4组） |
