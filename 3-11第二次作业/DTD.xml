@@ -1,0 +1,14 @@
+<!ELEMENT cartoon (name,made_info,context,serials,comments)>
+<!ATTLIST cartoon picture CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT made_info (director,dubbingor)>
+<!ELEMENT director (#PCDATA)+>
+<!ELEMENT dubbingor (#PCDATA)+>
+<!ELEMENT context (#PCDATA)>
+<!ELEMENT serials (id)*>
+<!ELEMENT id (#PCDATA)>
+<!ATTLIST id url CDATA #REQUIRED>
+<!ELEMENT comments (conmment)*>
+<!ATTLIST comments score CDATA #REQUIRED>
+<!ELEMENT conmment (#PCDATA)>
+<!ATTLIST conmment user CDATA time CDATA #REQUIRED>
