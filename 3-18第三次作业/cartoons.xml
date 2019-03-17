@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Edited by XMLSpyÂ® -->
-<?xml-stylesheet type="text/css" href="css.css"?>
-<cartoon picture="https://v.youku.com/v_show/id_XMzM1MDMwOTI4MA==.html?spm=a2h0k.11417342.soresults.dposter&s=efbfbd4b31efbfbdefbf">
+<?xml-stylesheet type="text/css" href="cartoon.css"?>
+<cartoons>
+<heading>欢迎来到动漫的世界!</heading> 
+<cartoon picture="https://v.youku.com/v_show/id_XMzM1MDMwOTI4MA==.html?spm=a2h0k.11417342.soresults.dposter&amp;amp;s=efbfbd4b31efbfbdefbf">
 	<name>画江湖之侠岚</name>
 	<made_info>
 		<director>关心</director>
@@ -11,9 +12,9 @@
 		丑妹是一个身世来历成谜的孤儿，在无端被卷进一桩惨剧后，只能跟随一个叫“陌名”的男人浪迹江湖，丑妹体内所蕴含的元炁引起了一群人的关注，这群自称“侠岚”的人，对丑妹和陌名展开了一场疯狂的搜捕。危急关头，另一群被称作“叛境侠岚”的人——山鬼谣、千钧、碧婷、游不动、辰月，也相继加入战斗。一个被称为“裴左统领”的人逐渐浮出水面。他的所作所为，使曾经的侠岚成了叛徒。他的所作所为，使曾经的同伴成了敌人。他的所作所为，使曾经的侠岚驻地玖宫岭变成了人间炼狱。志同道合的人们走到一起，他们一边要躲避侠岚的追捕，一边还要寻找一个消失已久的男人。这个叫“辗迟”的男人，将决定这场战争的天平向何方倾斜。
 	</context>
 	<serials nums="40">
-		<id url="https://v.youku.com/v_show/id_XMzM1MDMwOTI4MA==.html?spm=a2h0k.11417342.soresults.dselectbutton&s=efbfbd4b31efbfbdefbf">1</id>
-		<id url="https://v.youku.com/v_show/id_XMzM1MDMwOTI2MA==.html?spm=a2h0k.11417342.soresults.dselectbutton&s=efbfbd4b31efbfbdefbf">2</id>
-		<id url="https://v.youku.com/v_show/id_XMzM2ODQ2NzI5Ng==.html?spm=a2h0k.11417342.soresults.dselectbutton&s=efbfbd4b31efbfbdefbf">3</id>
+		<id url="https://v.youku.com/v_show/id_XMzM1MDMwOTI4MA==.html?spm=a2h0k.11417342.soresults.dselectbutton&amp;amp;s=efbfbd4b31efbfbdefbf">1</id>
+		<id url="https://v.youku.com/v_show/id_XMzM1MDMwOTI2MA==.html?spm=a2h0k.11417342.soresults.dselectbutton&amp;amp;s=efbfbd4b31efbfbdefbf">2</id>
+		<id url="https://v.youku.com/v_show/id_XMzM2ODQ2NzI5Ng==.html?spm=a2h0k.11417342.soresults.dselectbutton&amp;amp;s=efbfbd4b31efbfbdefbf">3</id>
 	</serials>
 	<comments score="8.5">
 		<conmment user="东方之星大侠" time="2018年01月26日">六年侠岚，情怀不变！！终于又回来了！感动~这次若森果然没有让粉丝们失望！！加油！看好你们！</conmment>
@@ -31,9 +32,9 @@
 		故事从主人公漩涡鸣人的孤儿生活开始，他的父母为了保护村子，将攻击村子九尾妖狐封印到了他体内，鸣人因此受尽了村人的冷落，只是拼命用各种恶作剧试图吸引大家的注意力。好在还是有依鲁卡老师的关心，鸣人的性格才没有变得扭曲，他总是干劲十足、非常乐观。 为了让更多的人认可自己，鸣人的目标是成为火影。整个故事就围绕鸣人的奋斗、成长，鸣人的同伴们的故事，以及这个忍者世界的各种争斗和阴谋展开。
 	</context>
 	<serials nums="720">
-		<id url="https://v.youku.com/v_show/id_XNTQwMTgxMTE2.html?spm=a2h0j.11185381.listitem_page1.5~A&&s=cc001f06962411de83b1">1</id>
-		<id url="https://v.youku.com/v_show/id_XNTI4NjExNDA4.html?spm=a2h0j.11185381.listitem_page1.5!2~A&&s=cc001f06962411de83b1">2</id>
-		<id url="https://v.youku.com/v_show/id_XNTI4NjEwODg4.html?spm=a2h0j.11185381.listitem_page1.5!3~A&&s=cc001f06962411de83b1">3</id>
+		<id url="https://v.youku.com/v_show/id_XNTQwMTgxMTE2.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;amp;&amp;amp;s=cc001f06962411de83b1">1</id>
+		<id url="https://v.youku.com/v_show/id_XNTI4NjExNDA4.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;amp;&amp;amp;s=cc001f06962411de83b1">2</id>
+		<id url="https://v.youku.com/v_show/id_XNTI4NjEwODg4.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;&amp;amp;s=cc001f06962411de83b1">3</id>
 	</serials>
 	<comments score="9.9">
 		<conmment user="丷Perfect丷" time="2016年04月13日">我决定从第一集再好好看一遍求点赞😁😁😁😁</conmment>
@@ -52,9 +53,9 @@
 		为躲避公输家族霸道机关兽的追杀，天明、少羽、石兰三人误打误撞，登上了停泊在海边的蜃楼。这艘始终停留在远处，可望而不可即的神秘巨舰，终于第一次近距离展现在三人面前，它华丽的外表之下，隐藏着天大的秘密。为躲开蜃楼上阴阳家弟子的追捕，三人逐渐深入到这座谜城一般的巨舰内部，开始了奇幻莫测的探险逃亡之旅。
 	</context>
 	<serials nums="75">
-		<id url="https://v.youku.com/v_show/id_XODU2MTEyNjI4.html?spm=a2h0j.11185381.listitem_page1.5~A&&s=9a8e9ba0605611e2a19e">1</id>
-		<id url="https://v.youku.com/v_show/id_XODgxNjg0MDI0.html?spm=a2h0j.11185381.listitem_page1.5!2~A&&s=9a8e9ba0605611e2a19e">2</id>
-		<id url="https://v.youku.com/v_show/id_XOTAxMDA0NDgw.html?spm=a2h0j.11185381.listitem_page1.5!3~A&&s=9a8e9ba0605611e2a19e">3</id>
+		<id url="https://v.youku.com/v_show/id_XODU2MTEyNjI4.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;amp;&amp;amp;s=9a8e9ba0605611e2a19e">1</id>
+		<id url="https://v.youku.com/v_show/id_XODgxNjg0MDI0.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;amp;&amp;amp;s=9a8e9ba0605611e2a19e">2</id>
+		<id url="https://v.youku.com/v_show/id_XOTAxMDA0NDgw.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;&amp;amp;s=9a8e9ba0605611e2a19e">3</id>
 	</serials>
 	<comments score="9.7">
 		<conmment user="满城花祭泪o原始的年代o " time="2014年12月25日">章邯将军出场真的魅力无限啊~但是李大人的模型似乎改变了呃。张良先森的感慨都说得我想哭了，，那个遥远的年代，隐藏了无数的秘密，在秦时明月里娓娓道来的，不单单是一个武侠梦，更是一个与历史的相遇！！期待兰兰和少羽的互动啊！少少还是美腻腻嘻嘻。。大叔和庄叔在一起好和谐。好有安全感</conmment>
@@ -72,9 +73,9 @@
 	话说玉皇大帝安排唐僧师徒整理天庭档案后，搞得整个天庭鸡飞狗跳，玉帝被众神仙堵在了凌霄宝殿门口。众仙情绪激动，以不成功便成仁的誓死精神逼迫玉帝撤职查办师徒四人，还要登报道歉，摆酒赔钱！ 虽然玉帝也早就后悔死了， 但毕竟人家是如来佛祖的关系户，而且天庭档案管理的工作又是自己安排的，现在开除他们好像也有点自抽耳光，思量再三，决定祸水要流外人田，让这几个狗血的家伙到自己的远房表哥宙斯和堂兄奥丁那里去。
 	</context>
 	<serials nums="75">
-		<id url="https://v.youku.com/v_show/id_XOTU5MzczMTY0.html?spm=a2h0j.11185381.listitem_page1.5~A&&s=d687da20fdc711e4abda">1</id>
-		<id url="https://v.youku.com/v_show/id_XOTU5Mzc3ODQ0.html?spm=a2h0j.11185381.listitem_page1.5!2~A&&s=d687da20fdc711e4abda">2</id>
-		<id url="https://v.youku.com/v_show/id_XMTI1MzY4ODAxNg==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&&s=d687da20fdc711e4abda">3</id>
+		<id url="https://v.youku.com/v_show/id_XOTU5MzczMTY0.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;amp;&amp;amp;s=d687da20fdc711e4abda">1</id>
+		<id url="https://v.youku.com/v_show/id_XOTU5Mzc3ODQ0.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;amp;&amp;amp;s=d687da20fdc711e4abda">2</id>
+		<id url="https://v.youku.com/v_show/id_XMTI1MzY4ODAxNg==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;&amp;amp;s=d687da20fdc711e4abda">3</id>
 	</serials>
 	<comments score="8.9">
 		<conmment user="麒麟角72905" time="2015年07月15日">終於到了第四季了啊！覺得這算是中國動畫界很成功的一部啊！至少比一隻羊一頭狼，一個光頭兩個熊好太多太多了</conmment>
@@ -82,7 +83,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMzkyODA0NzQ1Ng==.html?spm=a2h1n.8261147.0.0&s=efbfbd4d0f69efbfbdef">
+<cartoon picture="https://v.youku.com/v_show/id_XMzkyODA0NzQ1Ng==.html?spm=a2h1n.8261147.0.0&amp;amp;s=efbfbd4d0f69efbfbdef">
 	<name>极品家丁</name>
 	<made_info>
 		<director> 未知</director>
@@ -91,9 +92,9 @@
 	根据禹岩小说改编的同名漫画《极品家丁》改编创作。不小心掉下山崖的林晚荣穿越到了一个架空的时代，进入金陵大户萧府成为一名光荣的家丁，决心帮助萧府大小姐萧玉若拯救萧府危机，却遇到了两个神秘女子肖青璇和秦仙儿，并给萧府带来了灾难，林晚荣将如何化解这场危机？
 	</context>
 	<serials nums="75">
-		<id url="https://v.youku.com/v_show/id_XMzkxODU5NzgyOA==.html?spm=a2h0j.11185381.listitem_page1.5~A&&s=efbfbd4d0f69efbfbdef">1</id>
-		<id url="https://v.youku.com/v_show/id_XMzkxODYzNDc1Ng==.html?spm=a2h0j.11185381.listitem_page1.5!2~A&s=efbfbd4d0f69efbfbdef">2</id>
-		<id url="https://v.youku.com/v_show/id_XMzkxODY2MDcwMA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&&s=efbfbd4d0f69efbfbdef">3</id>
+		<id url="https://v.youku.com/v_show/id_XMzkxODU5NzgyOA==.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;amp;&amp;amp;s=efbfbd4d0f69efbfbdef">1</id>
+		<id url="https://v.youku.com/v_show/id_XMzkxODYzNDc1Ng==.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;amp;s=efbfbd4d0f69efbfbdef">2</id>
+		<id url="https://v.youku.com/v_show/id_XMzkxODY2MDcwMA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;&amp;amp;s=efbfbd4d0f69efbfbdef">3</id>
 	</serials>
 	<comments score="8.9">
 		<conmment user="麒麟角72905" time="2015年07月15日">好</conmment>
@@ -109,7 +110,7 @@
 	</made_info>
 	<context>
 		从小一起长大的六个孩子，在升上高中之后彼此有了距离。不太与人们接触的宅男宿海仁太、有点被小太妹熏染的安城鸣子、进入重点高中的松雪集与鹤见知利子、放弃读高中而展开旅行的久川铁道……只有幼年死去的本间芽衣子（只有仁太能看见的灵魂），还是单纯一如从前。有一天，芽衣子对仁太说：“帮我实现一个愿望吧。”仁太虽然有点为难，却还是答应了她。以此为契机，为了实现芽衣子的愿望，分散的大家又再次聚集在一起……	</context>
-	<serials nums=11">
+	<serials nums="11">
 		<id url="https://www.bilibili.com/bangumi/play/ep15014">1</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep15015">2</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep15016">3</id>
@@ -125,7 +126,8 @@
 	</made_info>
 	<context>
 		西元二○二一年，人类在与病毒性寄生生物“原肠动物”的战争中败北，被驱逐至狭窄的领土，带着恐惧与绝望苟且偷生。至此过了十年，人类在能控制原肠动物病毒的少女们“受诅之子”力量下得以找到对抗怪物的最后希望，然而过去的伤痛却使两者之间出现难以填平的代沟，看似得到和平的人类社会正悄悄变质，暗潮越见汹涌。居住于东京的高中生少年里见莲太郎，是一位专门对抗原肠动物的“民警”中其中一份子，与自己的搭挡蓝原延珠一起从事许多危险的工作，就在某天接获政府的特别命令，内容竟是避免东京毁灭的高度机密任务……
-		<serials nums=13">
+	</context>
+  <serials nums="13">
 		<id url="https://www.bilibili.com/bangumi/play/ep102167">1</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep102168">2</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep102169">3</id>
@@ -141,7 +143,8 @@
 	</made_info>
 	<context>
 		尼特族又闭门不出，但是在网络上甚至被当作都市传说口耳相传的天才玩家兄妹·空和白。将世界称为“垃圾游戏”的这两个人某一天被自称“神”的少年召唤到了异世界。那里是被神明禁止了战争，“一切交由游戏来决定”的世界——没错，就连国境线也是一样。被其他种族逼入绝境，只剩下最后一座都市的‘人类种Imanity’。空和白，两名废人兄妹到底能否在异世界成为‘人类的救世主’？——“那么，让我们开始游戏吧！”
-		<serials nums=13">
+	</context>
+    <serials nums="13">
 		<id url="https://www.bilibili.com/bangumi/play/ep4371">1</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep4370">2</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep4369">3</id>
@@ -156,8 +159,9 @@
 		<dubbingor>冈本信彦 千菅春香 樱井孝宏 藤原夏海 伊濑茉莉也 大冢芳忠</dubbingor>
 	</made_info>
 	<context>
-		在一栋大楼最底层甦醒的13岁少女，瑞吉儿·加德纳(レイチェル・ガードナー)，她没有任何记忆，不知道自己为何在这里，而为了回到地面，她开始试着逃出去，但是突然在她面前出现了脸上缠满绷带、拿着有如死神般的镰刀的杀人鬼。“拜托你，杀了我。”“帮我一起从这里出去吧。那样的话，我就会杀了你。”两人之间的奇妙羁绊，随着那“荒诞的约定”而逐渐加深。这里究竟是什么地方？两人为何被囚禁于此？等待着两人的命运又是如何？为了从密闭大楼逃出的抱死觉悟之行揭开了序幕。两人最终是否能够坚守约定，并且安全地逃出这栋大楼呢？
-		<serials nums=13">
+    在一栋大楼最底层甦醒的13岁少女，瑞吉儿·加德纳(レイチェル・ガードナー)，她没有任何记忆，不知道自己为何在这里，而为了回到地面，她开始试着逃出去，但是突然在她面前出现了脸上缠满绷带、拿着有如死神般的镰刀的杀人鬼。“拜托你，杀了我。”“帮我一起从这里出去吧。那样的话，我就会杀了你。”两人之间的奇妙羁绊，随着那“荒诞的约定”而逐渐加深。这里究竟是什么地方？两人为何被囚禁于此？等待着两人的命运又是如何？为了从密闭大楼逃出的抱死觉悟之行揭开了序幕。两人最终是否能够坚守约定，并且安全地逃出这栋大楼呢？
+  </context>
+  <serials nums="13">
 		<id url="https://www.bilibili.com/bangumi/play/ep232407">1</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep232408">2</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep232409">3</id>
@@ -169,11 +173,12 @@
 	<name>机动战士高达 铁血的奥尔芬斯 第二季</name>
 	<made_info>
 		<director>長井龍雪</director>
-		<dubbingor>河西健吾 / 诹访彩花 细谷佳正 / 东内麻里子 寺崎裕香 花江夏树 梅原裕一郎 内匠靖明 / 村中知 金元寿子</dubbingor>
+		<dubbingor>河西健吾  诹访彩花 细谷佳正  东内麻里子 寺崎裕香 花江夏树 梅原裕一郎 内匠靖明  村中知 金元寿子</dubbingor>
 	</made_info>
 	<context>
-		主人公三日月·奥古斯，从所属的民间警备公司克律塞安保公司（下称CGS）那里，接受了对少女库德莉亚·蓝那·伯恩斯坦的护卫任务。但CGS受到了摘取反叛之芽的武力组织加拉尔霍恩的袭击，于是在把三日月当做诱饵后撤退了。少年们的领袖奥尔加·伊兹卡认为这是个机会，并决定对虐待自己的大人们进行反击，而三日月被当做CGS动力炉来使用的“厄祭战”时代的机动战士——高达·巴巴托斯，向敌军发起挑战。
-		<serials nums=13">
+    主人公三日月·奥古斯，从所属的民间警备公司克律塞安保公司（下称CGS）那里，接受了对少女库德莉亚·蓝那·伯恩斯坦的护卫任务。但CGS受到了摘取反叛之芽的武力组织加拉尔霍恩的袭击，于是在把三日月当做诱饵后撤退了。少年们的领袖奥尔加·伊兹卡认为这是个机会，并决定对虐待自己的大人们进行反击，而三日月被当做CGS动力炉来使用的“厄祭战”时代的机动战士——高达·巴巴托斯，向敌军发起挑战。
+  </context>
+  <serials nums="13">
 		<id url="https://www.bilibili.com/bangumi/play/ep256051">1</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep256052">2</id>
 		<id url="https://www.bilibili.com/bangumi/play/ep256053">3</id>
@@ -187,15 +192,15 @@
 	<name>镇魂街</name>
 	<made_info>
 		<director>卢恒宇和李姝洁</director>
-		<dubbingor>张杰/齐克建/山新/李璐/宝木中阳/藤新/郭盛/洛如菲/小连杀</dubbingor>
+		<dubbingor>张杰 齐克建 山新 李璐 宝木中阳 藤新 郭盛 洛如菲 小连杀</dubbingor>
 	</made_info>
 	<context>
 		普通的应届大学毕业生夏铃在求职之际，收到了一条奇怪的面试通知，因此误入罗刹街并遭到了危险，幸而被镇魂将曹焱兵搭救。然而接触中，曹焱兵却发现夏铃并非看起来那样普通，因为她的身体里也存在着灵力，并且寄宿着一位神秘的守护灵。与此同时，夏铃开始遭到不明身份刺客的追杀，曹焱兵亦被卷入其中，二人的命运从此开始了交集，而在这一切的背后，似乎还隐藏着某些更加危险的秘密……
 	</context>
 	<serials nums="24">
 		<id url="https://v.youku.com/v_show/id_XMTU1MDcxNDIyOA==.html?s=33ec6ce8dea611e58bfb">1</id>
-		<id url="https://v.youku.com/v_show/id_XMTU1ODgzODIxMg==.html?&s=33ec6ce8dea611e58bfb">2</id>
-		<id url="https://v.youku.com/v_show/id_XMTU2NjQyNTA0OA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&&s=33ec6ce8dea611e58bfb">3</id>
+		<id url="https://v.youku.com/v_show/id_XMTU1ODgzODIxMg==.html?&amp;amp;s=33ec6ce8dea611e58bfb">2</id>
+		<id url="https://v.youku.com/v_show/id_XMTU2NjQyNTA0OA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;&amp;amp;s=33ec6ce8dea611e58bfb">3</id>
 	</serials>
 	<comments score="9.8">
 		<conmment user="卢恒宇和李姝洁工作室" time="2016年04月28日">来了！一年半了，我们终于带着镇魂街和观众老爷们见面了！已经有一年多没有收到观众老爷的反馈了，我们现在极度渴望着你们的反馈，所以不管是好的坏的，不管任何形式，请让我们看到吧！ </conmment>
@@ -207,15 +212,15 @@
 	<name>妖狐小红娘</name>
 	<made_info>
 		<director>未知</director>
-		<dubbingor>张杰/刘校妤/乔诗语/杨天翔</dubbingor>
+		<dubbingor>张杰 刘校妤 乔诗语 杨天翔</dubbingor>
 	</made_info>
 	<context>
 		该动画主要讲述了以红娘为职业的狐妖在为前世恋人牵红线过程当中发生的一系列有趣、神秘的故事。
 	</context>
 	<serials nums="63">
-		<id url="https://v.youku.com/v_show/id_XMTI3MDg2Njg2OA==.html?&s=3669bae21b1b11e5b5ce">1</id>
+		<id url="https://v.youku.com/v_show/id_XMTI3MDg2Njg2OA==.html?&amp;amp;s=3669bae21b1b11e5b5ce">1</id>
 		<id url="https://v.youku.com/v_show/id_XMTI4MTM4MjQzNg==.html?s=3669bae21b1b11e5b5ce">2</id>
-		<id url="https://v.youku.com/v_show/id_XMTI5MjMwNjY1Ng==.html?&s=3669bae21b1b11e5b5ce">3</id>
+		<id url="https://v.youku.com/v_show/id_XMTI5MjMwNjY1Ng==.html?&amp;amp;s=3669bae21b1b11e5b5ce">3</id>
 	</serials>
 	<comments score="9.7">
 		<conmment user="B日99188884" time="2016年04月28日">这是国漫！这是国漫！这是国漫！（重要的事情说三遍） </conmment>
@@ -233,9 +238,9 @@
 		《画江湖之不良人》第三季侠影归来，再现唐末乱世风云！乾陵被毁、龙泉宝藏下落不明，前朝皇子李星云欲归隐山林，不良帅决心挟天子以令诸侯，号召江湖各大势力复辟大唐，王道与霸道将在这片权力漩涡中进行终极对垒！贵妃墓、长安城诉说着昔日盛唐的锦绣江山；苗疆巫蛊、湘西赶尸揭开了江湖中不为人知的明争暗斗。《画江湖之不良人》 第三季将继续为您演绎这段充满爱恨情仇的武侠世界。
 	</context>
 	<serials nums="40">
-		<id url="https://v.youku.com/v_show/id_XMzg4MTg4ODIzNg==.html?&s=4852efbfbd09efbfbd36">1</id>
-		<id url="https://v.youku.com/v_show/id_XMzg4Mjc2NTY2MA==.html?&s=4852efbfbd09efbfbd36">2</id>
-		<id url="https://v.youku.com/v_show/id_XMzg5NDY4NjA3Ng==.html?&s=4852efbfbd09efbfbd36">3</id>
+		<id url="https://v.youku.com/v_show/id_XMzg4MTg4ODIzNg==.html?&amp;amp;s=4852efbfbd09efbfbd36">1</id>
+		<id url="https://v.youku.com/v_show/id_XMzg4Mjc2NTY2MA==.html?&amp;amp;s=4852efbfbd09efbfbd36">2</id>
+		<id url="https://v.youku.com/v_show/id_XMzg5NDY4NjA3Ng==.html?&amp;amp;s=4852efbfbd09efbfbd36">3</id>
 	</serials>
 	<comments score="9.4">
 		<conmment user="艾格尼斯" time="2019年02月28日">一部作品能把男女主塑造得如此让人讨厌，真是腻害优秀</conmment>
@@ -247,15 +252,15 @@
 	<name>秦时明月之君临天下</name>
 	<made_info>
 		<director>沈乐平</director>
-		<dubbingor>吴磊/冯骏骅/黄怡晴/沈达威/刘钦/李敏妍</dubbingor>
+		<dubbingor>吴磊 冯骏骅 黄怡晴 沈达威 刘钦 李敏妍</dubbingor>
 	</made_info>
 	<context>
 		《秦时明月之君临天下》是国产大型3D动画《秦时明月》的第五部。继续之前的剧情，第五部中，将会讲述蒙恬出击匈奴、秦皇东巡、焚书坑儒、蜃楼东渡……等一系列历史故事
 	</context>
 	<serials nums="75">
-		<id url="https://v.youku.com/v_show/id_XODU2MTEyNjI4.html?&s=9a8e9ba0605611e2a19e">1</id>
-		<id url="https://v.youku.com/v_show/id_XODgxNjg0MDI0.html?&s=9a8e9ba0605611e2a19e">2</id>
-		<id url="https://v.youku.com/v_show/id_XOTAxMDA0NDgw.html?&s=9a8e9ba0605611e2a19e">3</id>
+		<id url="https://v.youku.com/v_show/id_XODU2MTEyNjI4.html?&amp;amp;s=9a8e9ba0605611e2a19e">1</id>
+		<id url="https://v.youku.com/v_show/id_XODgxNjg0MDI0.html?&amp;amp;s=9a8e9ba0605611e2a19e">2</id>
+		<id url="https://v.youku.com/v_show/id_XOTAxMDA0NDgw.html?&amp;amp;s=9a8e9ba0605611e2a19e">3</id>
 	</serials>
 	<comments score="9.7">
 		<conmment user="那年飘过月亮湾" time="2016年03月28日">这部动漫不仅是动漫，感觉中华文化太博大精深了</conmment>
@@ -267,19 +272,116 @@
 	<name>天行九歌</name>
 	<made_info>
 		<director>沈乐平</director>
-		<dubbingor>夏磊/王肖兵/赵路</dubbingor>
+		<dubbingor>夏磊 王肖兵 赵路</dubbingor>
 	</made_info>
 	<context>
 		战国末年，秦国独大。韩国积贫积弱，大将军姬无夜独揽朝政，相国张开地顽固守旧。公子韩非虽有一腔抱负，却郁郁不得志，每日只能在纸醉金迷中蛰伏。恰逢秦国大兵压境，韩国危在旦夕。此刻正是朝野上下一心、同仇敌忾之时，却发生了一件离奇诡谲的案件，大雨倾盆中军饷神秘消失，涉案之人先后死于非命。终案件落到了韩国相国之孙张良手中。韩非，这个别人眼中的纨绔子弟，竟自愿卷入这场权力的游戏之中。前路危险莫测，敌人强大而狡猾。韩非借助法家的现实理论，以及对人性的深刻剖析，逐渐拨开层层迷雾。
 	</context>
 	<serials nums="60">
-		<id url="https://v.youku.com/v_show/id_XMTQ5NTU1OTE4OA==.html?&s=e4c5befee10111e5b432">1</id>
-		<id url="https://v.youku.com/v_show/id_XMTQ5NTU2MTkyNA==.html?&s=e4c5befee10111e5b432">2</id>
-		<id url="https://v.youku.com/v_show/id_XMTUxMDY3ODY0OA==.html?&s=e4c5befee10111e5b432">3</id>
+		<id url="https://v.youku.com/v_show/id_XMTQ5NTU1OTE4OA==.html?&amp;amp;s=e4c5befee10111e5b432">1</id>
+		<id url="https://v.youku.com/v_show/id_XMTQ5NTU2MTkyNA==.html?&amp;amp;s=e4c5befee10111e5b432">2</id>
+		<id url="https://v.youku.com/v_show/id_XMTUxMDY3ODY0OA==.html?&amp;amp;s=e4c5befee10111e5b432">3</id>
 	</serials>
 	<comments score="9.3">
 		<conmment user="莫很浅" time="2016年04月10日">我家张良终于出现了，卧槽，少年张良好可口，！！！亲亲ლ(°◕‵ƹ′◕ლ) </conmment>
 		<conmment user="寻找被我丢掉的那一撇" time="2016年4月15日">真心觉得片尾曲不符合秦时明月的优美风格,能换一下么 </conmment>
 	</comments>
 </cartoon>
+
+<cartoon picture="https://v.youku.com/v_show/id_XMzA1OTU3MzQ2MA==.html?spm=a2h0k.11417342.soresults.dposter">
+	<name>动漫：黄金神威 小剧场</name>
+	<made_info>
+		<director>难波日登志</director>
+	</made_info>
+	<context>
+	明治时代后期，有着“不死之身杉元”外号的日俄战争英雄杉元佐一，因故需要筹措金钱而来到了北海道。他无意间听说爱奴人手中的财宝被抢夺的传闻。据说宝藏秘密被刻在24名越狱犯身上的刺青，寻宝过程之中，杉元遭受到棕熊的袭击，并且被一名爱奴人少女“阿席莉帕”所救。紧接着，有如呼应杉元的行动一般，从以前就一直以宝藏为目标在暗中行动的“第七师团”以及背负刺青的越狱犯们的行动也开始浮上台面……
+    </context>
+	<serials nums="3">
+		<id url="https://v.youku.com/v_show/id_XMzU1ODA0MTkxNg==.html?spm=a2h0j.11185381.introitem_1.5~H3~A">1</id>
+		<id url="https://v.youku.com/v_show/id_XMzU2MzQzMTg0MA==.html?spm=a2h0j.11185381.introitem_1.5!2~H3~A">2</id>
+		<id url="https://v.youku.com/v_show/id_XMzU4MTAyNTg1Mg==.html?spm=a2h0j.11185381.introitem_1.5!3~H3~A">3</id>
+	</serials>
+	<comments score="6.3">
+	</comments>
+</cartoon>
+
+<cartoon picture="http://r1.ykimg.com/0516000055813AC967BC3C124A039024">
+	<name>动漫：寿司忍者</name>
+	<made_info>
+		<director>榊原干典</director>
+		<dubbingor>宫野真守 朴璐美 水树奈奈 梶裕贵</dubbingor>
+	</made_info>
+	<context>
+		很久很久以前，在遥远的东方曾繁盛数百年的“寿司忍者帝国”惨遭毁灭。为了帝国的复活，必须得到“幸福的调味料”，相传它一直沉睡在世界的某个地方。“幸福的调味料”会在哪里呢？要怎样才能找到它？而它的真面目究竟是？“寿司忍者”就这样踏上了冒险之旅。
+	</context>
+	<serials nums="3">
+		<id url="https://v.youku.com/v_show/id_XMTI2NTc5NTA0MA==.html?spm=a2h0j.11185381.mdlikeshow.1~3!2~5~5~A">1</id>
+		<id url="https://v.youku.com/v_show/id_XMTI2NTc5NTk2OA==.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;&amp;s=fbdacc440e4b11e5b432">2</id>
+		<id url="https://v.youku.com/v_show/id_XMTI2NTc5Njg5Ng==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;&amp;s=fbdacc440e4b11e5b432">3</id>
+	</serials>
+	<comments score="7.7">
+		<conmment user="莫很浅" time="2016年04月10日">地板椅子沙发 </conmment>
+		<conmment user="寻找被我丢掉的那一撇" time="2016年4月15日">真PK场元素怎么打啊 感觉元素天克忍者的 被打的哭爹喊娘的</conmment>
+	</comments>
+</cartoon>
+
+<cartoon picture="http://r1.ykimg.com/0516000055813AC967BC3C124A039024">
+	<name>吃豆人的鬼魅历险</name>
+	<made_info>
+		<director>未知</director>
+		<dubbingor>未知</dubbingor>
+	</made_info>
+	<context>
+	《吃豆人的鬼魅历险》讲述的是吃豆人拯救吃豆世界的故事。根据预言，一颗黄色圆形吃豆人将拯救吃豆星球，而我们的主角正是这个天命所归的重要人物。他和伙伴赛丽（Cyli）和小漩涡（Spiral）不仅要克服的各种挫折与烦恼，更要齐心协力打败由贝斯大王
+	</context>
+	<serials nums="3">
+		<id url="https://v.youku.com/v_show/id_XMTM3MjU1NzU5Mg==.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;&amp;s=a311ba20629a11e5b5ce">1</id>
+		<id url="https://v.youku.com/v_show/id_XMTM3MjU4Mjk3Ng==.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;&amp;s=a311ba20629a11e5b5ce">2</id>
+		<id url="https://v.youku.com/v_show/id_XMTM3MjYwMjg4MA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;&amp;s=a311ba20629a11e5b5ce">3</id>
+	</serials>
+	<comments score="8.8">
+		<conmment user="莫很浅" time="2016年04月10日">一点也不好看。 </conmment>
+		<conmment user="寻找被我丢掉的那一撇" time="2016年4月15日">师一点歱邫型鼒才帅丯的帅小得师扔l乛⼀l尕很l是l乛p是lk二p乛，，l刁</conmment>
+	</comments>
+</cartoon>
+
+<cartoon picture="https://v.youku.com/v_show/id_XMjI1NzEwMjA4MA==.html?spm=a2h1n.8261147.0.0&amp;s=8f77a42ed7d411e69c81">
+	<name>5栋32号</name>
+	<made_info>
+		<director>那生巴特</director>
+		<dubbingor>未知</dubbingor>
+	</made_info>
+	<context>
+	以平淡的日常为主线，轻松快乐为大基调。 可爱萌系的形象，流畅的动画，柔和的色调，独特的风格，这是一部优秀的国产动漫作品。 5栋32号里的友情，对生活的迷茫，困惑，对理想的执着，正式无数普通人正在或者曾经感受的，人物的酸甜苦辣总能与观剧者的内心产生共鸣。它没有把任何美好的东西撕碎给谁看，和大多数人上学时一样平淡无奇，又像没什么味道的白开水，满溢着青春本该有的样子。《5栋32号》为观众呈现的，是自然纯粹，阳光健康的正能量！
+	</context>
+	<serials nums="3">
+		<id url="https://v.youku.com/v_show/id_XMjI1NzEwMjA4MA==.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;&amp;s=8f77a42ed7d411e69c81">1</id>
+		<id url="https://v.youku.com/v_show/id_XMjI1NzM2NDUyMA==.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;&amp;s=8f77a42ed7d411e69c81">2</id>
+		<id url="https://v.youku.com/v_show/id_XMjI1NzUwOTcyOA==.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;&amp;s=8f77a42ed7d411e69c81">3</id>
+	</serials>
+	<comments score="8.0">
+		<conmment user="莫很浅" time="2016年04月10日">一集也太短了…… </conmment>
+	</comments>
+</cartoon>
+
+<cartoon picture="https://v.youku.com/v_show/id_XMTQ4OTIyODUyMA==.html?spm=a2h1n.8261147.0.0&amp;s=c029310658f011e4b2ad">
+	<name>忍者龟 第三季</name>
+	<made_info>
+		<director>凯文·伊斯特曼 皮特·拉尔德</director>
+		<dubbingor>贾森·比格斯 格莱格·西伯斯</dubbingor>
+	</made_info>
+	<context>
+	该动画讲述的是由4只基因突变的乌龟所组成的忍者团体，并得到斯普林特师父的忍术训练和指导的故事。他们住在纽约曼哈顿的下水道，夜间出动，打击街头犯罪、邪恶势力和外星入侵，同时他们始终和外界社会保持距离。
+	</context>
+	<serials nums="3">
+		<id url="https://v.youku.com/v_show/id_XMTQ4OTIyODUyMA==.html?spm=a2h1n.8261147.point_reload_1.5~5~5~5~A&amp;s=c029310658f011e4b2ad">1</id>
+		<id url="https://v.youku.com/v_show/id_XMTQ4OTIyODgwMA==.html?spm=a2h1n.8261147.point_reload_1.5~5!2~5~5~A&amp;s=c029310658f011e4b2ad">2</id>
+		<id url="https://v.youku.com/v_show/id_XMTQ4OTIyOTAwNA==.html?spm=a2h1n.8261147.point_reload_1.5~5!3~5!2~5~A&amp;s=c029310658f011e4b2ad">3</id>
+	</serials>
+	<comments score="8.7">
+		<conmment user="莫很浅" time="2016年04月10日">真庆幸我们童年有这些动漫的陪伴，不像现在的孩子只能和两头熊和几只羊为伴……真替现在的孩子感到悲哀！！！…… </conmment>
+	</comments>
+</cartoon>
+
+</cartoons>
 

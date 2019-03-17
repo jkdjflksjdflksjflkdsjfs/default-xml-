@@ -1,0 +1,40 @@
+<xml version = "1.0" encoding = "utf-8">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<xsd:element name="cartoon">
+		<xsd:complexType>			
+			<xsd:sequence>
+				<xsd:element name = "name" type="xsd:string"/>
+				<xsd:element name = "made_info">
+					<xsd:complexType>
+						<xsd:element name = "director" type="xsd:string"/>
+						<xsd:element name = "dubbingor" type="xsd:string"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name = "context" type="xsd:string"/>
+				<xsd:element name = "serials">
+					<xsd:complexType>
+						<xsd:element name = "id" type = "xsd:integer" minOccurs = "0" maxOccurs = "unbounded">
+							<xsd:complexType>
+								<xsd:attribute name = "url" type="xsd:anyURI"/>
+							</xsd:complexType>
+						</xsd:element>
+						<xsd:attribute name = "num" type="xsd:integer" use = "required"/>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name = "comments">
+					<xsd:complexType>
+						<xsd:element name = "comment" type = "xsd:string" minOccurs = "0" maxOccurs = "unbounded">
+							<xsd:complexType>
+								<xsd:attribute name = "user" type="xsd:string"/>
+								<xsd:attribute name = "time" type="xsd:date"/>
+							</xsd:complexType>
+						</xsd:element>
+						<xsd:attribute name = "score" type="xsd:decimal" use = "required"/>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+			<xsd:attribute name = "picture" type="xsd:anyURI"/>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
