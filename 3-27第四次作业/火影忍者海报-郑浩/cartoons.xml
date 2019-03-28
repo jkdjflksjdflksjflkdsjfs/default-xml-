@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="huoying.xsl"?>
+<cartoons>
+<cartoon picture="2.jpg">
+	<name>火影忍者</name>
+	<made_info>
+		<director>伊达勇登</director>
+		<dubbingor>竹内顺子 杉山纪彰 中村千绘 井上和彦</dubbingor>
+	</made_info>
+	<context>
+		故事从主人公漩涡鸣人的孤儿生活开始，他的父母为了保护村子，将攻击村子九尾妖狐封印到了他体内，鸣人因此受尽了村人的冷落，只是拼命用各种恶作剧试图吸引大家的注意力。好在还是有依鲁卡老师的关心，鸣人的性格才没有变得扭曲，他总是干劲十足、非常乐观。 为了让更多的人认可自己，鸣人的目标是成为火影。整个故事就围绕鸣人的奋斗、成长，鸣人的同伴们的故事，以及这个忍者世界的各种争斗和阴谋展开。
+	</context>
+	<serials nums="720">
+		<id url="https://v.youku.com/v_show/id_XNTQwMTgxMTE2.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;amp;amp;&amp;amp;amp;s=cc001f06962411de83b1">1</id>
+		<id url="https://v.youku.com/v_show/id_XNTI4NjExNDA4.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;amp;amp;&amp;amp;amp;s=cc001f06962411de83b1">2</id>
+		<id url="https://v.youku.com/v_show/id_XNTI4NjEwODg4.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;amp;&amp;amp;amp;s=cc001f06962411de83b1">3</id>
+	</serials>
+	<comments score="9.9">
+		<conmment user="丷Perfect丷" time="2016年04月13日">我决定从第一集再好好看一遍求点赞😁😁😁😁</conmment>
+		<conmment user="x稀少de御天敌" time="2018年05月10日">我决定从第一集再好好看一遍求点赞看主页pk赛车飙车</conmment>
+	</comments>
+</cartoon>
+</cartoons>
+

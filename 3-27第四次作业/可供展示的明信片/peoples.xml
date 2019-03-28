@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="people.xsl" ?>
+<peoples>
+	<people>
+		<name>郑浩</name>
+		<sex>男</sex>
+		<age>20</age>
+		<email>zenhoxx@163.com</email>
+		<picture>./zhenghao.jpg</picture>
+		<info>东南大学软件工程16级二班，热爱学习，热爱游戏，热爱运动，编程小白，除了帅一无是处。</info>
+	</people>
+	<people>
+		<name>商一帆</name>
+		<sex>男</sex>
+		<age>20</age>
+		<email>shangyf@163.com</email>
+		<picture>./shangyifan.jpg</picture>
+		<info>东南大学软件工程16级二班，除了帅之外，还有强壮的肌肉和聪明的大脑。</info>
+	</people>
+	<people>
+		<name>赵谦</name>
+		<sex>男</sex>
+		<age>20</age>
+		<email>zhaoq@163.com</email>
+		<picture>./zhaoqian.jpg</picture>
+		<info>这个人很懒，什么都没有留下。</info>
+	</people>
+</peoples>
