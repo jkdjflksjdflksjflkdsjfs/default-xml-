@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="tomandjerry.xsl"?>
+<cartoons>
+<cartoon picture="2.jpg">
+	<name>猫和老鼠</name>
+	<made_info>
+		<director>约瑟夫·巴伯拉 特克斯·艾弗里</director>
+		<dubbingor>特克斯·艾弗里 约瑟夫·巴伯拉 比利·布莱彻 道斯·巴特勒</dubbingor>
+	</made_info>
+	<context>
+		TOM是一只可爱的猫，十分喜爱恶作剧，JERRY是和TOM生活在一起的小老鼠，他们在生活中相互为伴，总是打闹。 猫和老鼠是现实中的天敌，他们两个在一起总是闹出很多麻烦和笑话，美国把猫和老鼠的故事搬上电视，深受大家的喜爱。
+	</context>
+	<serials nums="140">
+		<id url="https://v.youku.com/v_show/id_XNTQwMTgxMTE2.html?spm=a2h0j.11185381.listitem_page1.5~A&amp;amp;amp;&amp;amp;amp;s=cc001f06962411de83b1">1</id>
+		<id url="https://v.youku.com/v_show/id_XNTI4NjExNDA4.html?spm=a2h0j.11185381.listitem_page1.5!2~A&amp;amp;amp;&amp;amp;amp;s=cc001f06962411de83b1">2</id>
+		<id url="https://v.youku.com/v_show/id_XNTI4NjEwODg4.html?spm=a2h0j.11185381.listitem_page1.5!3~A&amp;amp;amp;&amp;amp;amp;s=cc001f06962411de83b1">3</id>
+	</serials>
+	<comments score="8.7">
+		<conmment user="丷Perfect丷" time="2016年04月13日">真佩服创作者的想象力，再看看现在国产动画，唉，怎么说呢，绝不是崇洋媚外，真的找不到这么有创意那么幽默的动画片了</conmment>
+		<conmment user="x稀少de御天敌" time="2018年05月10日">好感动，虽然不是真正的血缘，孩子为了妈咪做妈咪想做的事情哪怕是牺牲自己依然爱妈咪。妈咪感受到了孩子的爱从最初的想吃掉改变自己努力变成孩子想要的妈咪。满满的爱的教育，试问国产动画，能学习一下教给我们的孩子人类与生俱来的爱吗？</conmment>
+	</comments>
+</cartoon>
+</cartoons>

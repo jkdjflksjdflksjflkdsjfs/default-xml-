@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="poster.xsl"?>
+<cartoons>
+<cartoon picture="27.jpg">
+	<name>JOJO的奇妙冒险 黄金之风</name>
+	<made_info>
+		<director>津田尚克</director>
+		<dubbingor>小野贤章 中村悠一 榎木淳弥 山下大辉 鸟海浩辅 诹访部顺一</dubbingor>
+	</made_info>
+	<context>
+		住在意大利那不勒斯的青年乔鲁诺·乔巴拿，是继承了乔斯达家宿敌·DIO之血脉的儿子。 幼年时遭受迫害而自暴自弃的他，由于拯救了一名黑帮男子，而学到了“相信他人”。不忘恩义、带着敬意对待自己的黑帮，让他的心变得率直。就这样，乔鲁诺开始对“黑帮明星”怀有憧憬。15岁的乔鲁诺，与统领意大利黑社会的黑帮组织“热情”一同引发事端，并成为被盯上的目标……
+	</context>
+		<serials nums="22">
+		<id url="https://www.bilibili.com/bangumi/play/ep250611">1</id>
+		<id url="https://www.bilibili.com/bangumi/play/ep250612">2</id>
+		<id url="https://www.bilibili.com/bangumi/play/ep250613">3</id>
+	</serials>
+	<comments score="9.8">
+	</comments>
+</cartoon>
+
+</cartoons>
+

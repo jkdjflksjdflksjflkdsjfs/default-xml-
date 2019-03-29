@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/css" href="cartoon.css"?>
+<?xml-stylesheet type="text/xsl" href="cartoons.xsl"?>
 <cartoons>
 <heading>欢迎来到动漫的世界!</heading> 
-<cartoon picture="https://v.youku.com/v_show/id_XMzM1MDMwOTI4MA==.html?spm=a2h0k.11417342.soresults.dposter&amp;amp;amp;s=efbfbd4b31efbfbdefbf">
+<cartoon picture="./imgs/1.jpg">
 	<name>画江湖之侠岚</name>
 	<made_info>
 		<director>关心</director>
@@ -22,7 +22,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_nextstage/id_cc001f06962411de83b1.html?spm=a2ha1.12523958.m_4392_c_12696.d_01">
+<cartoon picture="./imgs/2.jpg">
 	<name>火影忍者</name>
 	<made_info>
 		<director>伊达勇登</director>
@@ -43,7 +43,7 @@
 </cartoon>
 
 
-<cartoon picture="https://v.youku.com/v_nextstage/id_9a8e9ba0605611e2a19e.html?spm=a2ha1.12523958.m_4392_c_12696.d_02">
+<cartoon picture="./imgs/3.jpg">
 	<name>秦时明月之君临天下</name>
 	<made_info>
 		<director>沈乐平</director>
@@ -63,7 +63,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_nextstage/id_9a8e9ba0605611e2a19e.html?spm=a2ha1.12523958.m_4392_c_12696.d_02">
+<cartoon picture="./imgs/4.jpg">
 	<name>夺宝幸运星4</name>
 	<made_info>
 		<director> 哈磊</director>
@@ -83,7 +83,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMzkyODA0NzQ1Ng==.html?spm=a2h1n.8261147.0.0&amp;amp;amp;s=efbfbd4d0f69efbfbdef">
+<cartoon picture="./imgs/5.jpg">
 	<name>极品家丁</name>
 	<made_info>
 		<director> 未知</director>
@@ -102,7 +102,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/5f4beb5a7b94908790ad18b1e0f54c92fc646c12.jpg@450w_600h.webp">
+<cartoon picture="./imgs/6.jpg">
 	<name>我们仍未知道那天所看见的花的名字。</name>
 	<made_info>
 		<director>长井龙雪</director>
@@ -118,7 +118,7 @@
 	<comments score="9.4">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/8f540cf989b02e2db4e7de1e2fdf1ab2886b4e64.jpg@240w_320h.jpg">
+<cartoon picture="./imgs/7.jpg">
 	<name>漆黑的子弹</name>
 	<made_info>
 		<director>小島正幸</director>
@@ -135,7 +135,7 @@
 	<comments score="9.2">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/f7175cd20de509e2bfd43255c28cf4e24841480d.jpg@240w_320h.jpg">
+<cartoon picture="./imgs/8.jpg">
 	<name>NO GAME NO LIFE 游戏人生</name>
 	<made_info>
 		<director>小島正幸</director>
@@ -152,7 +152,7 @@
 	<comments score="9.2">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png@240w_320h.png">
+<cartoon picture="./imgs/9.jpg">
 	<name>Angels of Death </name>
 	<made_info>
 		<director>铃木健太郎</director>
@@ -169,7 +169,7 @@
 	<comments score="9.6">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/a20296165901b6402c54d78c42d0c3274fca6cd1.png@240w_320h.png">
+<cartoon picture="./imgs/10.jpg">
 	<name>机动战士高达 铁血的奥尔芬斯 第二季</name>
 	<made_info>
 		<director>長井龍雪</director>
@@ -188,7 +188,7 @@
 </cartoon>
 
 
-<cartoon picture="https://v.youku.com/v_show/id_XMTU1MDcxNDIyOA==.html?s=33ec6ce8dea611e58bfb">
+<cartoon picture="./imgs/11.jpg">
 	<name>镇魂街</name>
 	<made_info>
 		<director>卢恒宇和李姝洁</director>
@@ -208,7 +208,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMTI3MDg2Njg2OA==.html?s=3669bae21b1b11e5b5ce">
+<cartoon picture="./imgs/12.jpg">
 	<name>妖狐小红娘</name>
 	<made_info>
 		<director>未知</director>
@@ -228,7 +228,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XNDA4NjA5Njg1Ng==.html?s=4852efbfbd09efbfbd36">
+<cartoon picture="./imgs/13.jpg">
 	<name>不良人</name>
 	<made_info>
 		<director>周飞龙</director>
@@ -248,7 +248,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XODU2MTEyNjI4.html?s=9a8e9ba0605611e2a19e">
+<cartoon picture="./imgs/14.jpg">
 	<name>秦时明月之君临天下</name>
 	<made_info>
 		<director>沈乐平</director>
@@ -268,7 +268,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMTQ5NTU1OTE4OA==.html?s=e4c5befee10111e5b432">
+<cartoon picture="./imgs/15.jpg">
 	<name>天行九歌</name>
 	<made_info>
 		<director>沈乐平</director>
@@ -288,7 +288,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMzA1OTU3MzQ2MA==.html?spm=a2h0k.11417342.soresults.dposter">
+<cartoon picture="./imgs/16.jpg">
 	<name>动漫：黄金神威 小剧场</name>
 	<made_info>
 		<director>难波日登志</director>
@@ -305,7 +305,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="http://r1.ykimg.com/0516000055813AC967BC3C124A039024">
+<cartoon picture="./imgs/17.jpg">
 	<name>动漫：寿司忍者</name>
 	<made_info>
 		<director>榊原干典</director>
@@ -325,7 +325,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="http://r1.ykimg.com/0516000055813AC967BC3C124A039024">
+<cartoon picture="./imgs/18.jpg">
 	<name>吃豆人的鬼魅历险</name>
 	<made_info>
 		<director>未知</director>
@@ -345,7 +345,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMjI1NzEwMjA4MA==.html?spm=a2h1n.8261147.0.0&amp;amp;s=8f77a42ed7d411e69c81">
+<cartoon picture="./imgs/19.jpg">
 	<name>5栋32号</name>
 	<made_info>
 		<director>那生巴特</director>
@@ -364,7 +364,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMTQ4OTIyODUyMA==.html?spm=a2h1n.8261147.0.0&amp;amp;s=c029310658f011e4b2ad">
+<cartoon picture="./imgs/20.jpg">
 	<name>忍者龟 第三季</name>
 	<made_info>
 		<director>凯文·伊斯特曼 皮特·拉尔德</director>
@@ -383,7 +383,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMjcwNjg5MTk2.html?spm=a2h1n.8261147.0.0&amp;s=f4487f8e61ad11e0bea1">
+<cartoon picture="./imgs/21.jpg">
 	<name>猫和老鼠</name>
 	<made_info>
 		<director>约瑟夫·巴伯拉 特克斯·艾弗里</director>
@@ -403,7 +403,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="">
+<cartoon picture="./imgs/22.jpg">
 	<name>大耳朵图图</name>
 	<made_info>
 		<director>速达</director>
@@ -423,7 +423,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMjgzMzg4Mjc2.html?spm=a2h1n.8261147.0.0&amp;s=f832b90261ad11e0bea1">
+<cartoon picture="./imgs/23.jpg">
 	<name>大头儿子小头爸爸</name>
 	<made_info>
 		<director>崔世昱</director>
@@ -443,7 +443,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMzE2ODg0MDAw.html?spm=a2h1n.8261147.0.0&amp;s=cc0026e0962411de83b1">
+<cartoon picture="./imgs/24.jpg">
 	<name>银魂</name>
 	<made_info>
 		<director>高松信司 藤田阳一</director>
@@ -463,7 +463,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://v.youku.com/v_show/id_XMjkwNTAyMDE5Mg==.html?spm=a2h1n.8261147.0.0&amp;s=efbfbd38552e4b2b11ef">
+<cartoon picture="./imgs/25.jpg">
 	<name>蜡笔小新</name>
 	<made_info>
 		<director>本乡充 原惠一 武藤裕治</director>
@@ -483,7 +483,7 @@
 	</comments>
 </cartoon>
 
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/6a04c87e990ab74cd8d555ef45a863de0993b161.png@450w_600h.webp">
+<cartoon picture="./imgs/26.jpg">
 	<name>JOJO的奇妙冒险 不灭钻石</name>
 	<made_info>
 		<director>津田尚克</director>
@@ -500,7 +500,7 @@
 	<comments score="9.8">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/f34ff3975c39913af936c133ae60a5891babba08.png@450w_600h.webp">
+<cartoon picture="./imgs/27.jpg">
 	<name>JOJO的奇妙冒险 黄金之风</name>
 	<made_info>
 		<director>津田尚克</director>
@@ -517,7 +517,7 @@
 	<comments score="9.8">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/ecb59fd96204259d2fb004a106231a1987eef554.jpg@450w_600h.webp">
+<cartoon picture="./imgs/28.jpg">
 	<name>魔法少女小圆</name>
 	<made_info>
 		<director>新房昭之</director>
@@ -534,7 +534,7 @@
 	<comments score="9.7">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/4d9f43eb3dba572797f8915f8f28efce9e58d756.jpg@450w_600h.webp">
+<cartoon picture="./imgs/29.jpg">
 	<name>刀剑神域 Alicization</name>
 	<made_info>
 		<director>小野学</director>
@@ -551,7 +551,7 @@
 	<comments score="9.1">
 	</comments>
 </cartoon>
-<cartoon picture="https://i0.hdslb.com/bfs/bangumi/beb8fe41f0371aeb5dc20ac63ee8abd048e5d47d.jpg@450w_600h.webp">
+<cartoon picture="./imgs/30.jpg">
 	<name>地球防卫少年 </name>
 	<made_info>
 		<director>鬼頭莫宏</director>
