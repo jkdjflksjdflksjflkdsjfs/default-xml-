@@ -1,0 +1,21 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="104.5" rx="104.5" id="svg_1" cy="170.9375" cx="309" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <ellipse stroke="#000" ry="23.499999" rx="34.999998" id="svg_6" cy="158.937499" cx="271.499998" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="157.4375" x2="383.5" y1="157.4375" x1="321.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#000" ry="7" rx="7.5" id="svg_10" cy="165.4375" cx="354" stroke-opacity="null" stroke-width="1.5" fill="#000000"/>
+  <line stroke="#000" transform="rotate(-7.391683578491211 227.5000000000005,137.43750000000003) " stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="151.103279" x2="236.844561" y1="123.771722" x1="218.155438" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_19" y2="242.4375" x2="347.506024" y1="242.4375" x1="264.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path stroke="#000" transform="rotate(-5.680027008056641 307.1263732910158,100.54528045654304) " id="svg_21" d="m310.880457,87.477779l-14.472087,11.829114l14.293178,4.063862l-13.21106,12.699572l-5.333837,-2.144515l3.783104,12.240991l15.034422,-5.34067l-6.347774,-2.232375l17.236998,-18.240691l-15.756562,-3.306l15.21551,-12.326123l-8.679216,-1.850703l9.452966,-7.833895l-3.472619,-0.112585l-14.669132,10.747263l6.926108,1.80676l0.000001,-0.000003z" stroke-opacity="null" stroke-width="1.5" fill="#FFFA8D"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_22" y="302.4375" x="236.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">哥只是个传说</text>
+ </g>
+</svg>
