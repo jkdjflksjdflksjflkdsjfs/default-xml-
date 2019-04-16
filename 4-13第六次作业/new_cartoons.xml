@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cartoons> 
+  <cartoon picture="./imgs/31.jpg"> 
+    <name>工作细胞</name>  
+    <made_info> 
+      <director>铃木健一</director>  
+      <dubbingor>花泽香菜 前野智昭 小野大辅 井上喜久子 长绳麻理亚 樱井孝宏 早见沙织</dubbingor> 
+    </made_info>  
+    <context>这是一个关于你自身的故事。你体内的故事——。人的细胞数量，约为37兆2千亿个。细胞们在名为身体的世界中，今天也精神满满、无休无眠地在工作着。运送着氧气的红细胞，与细菌战斗的白细胞……！这里，有着细胞们不为人知的故事。</context>  
+    <serials nums="14"> 
+      <id url="https://www.bilibili.com/bangumi/play/ep232465">1</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep232466">2</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep232467">3</id> 
+    </serials>  
+    <comments score="9.7"></comments> 
+  </cartoon>  
+  <cartoon picture="./imgs/32.jpg"> 
+    <name>兽娘动物园</name>  
+    <made_info> 
+      <director>たつき</director>  
+      <dubbingor>内田彩 尾崎由香 本宮佳奈 小野早稀 佐々木未来 根本流風</dubbingor> 
+    </made_info>  
+    <context>有各种动物充满谜团的“加帕利动物园”，游戏内包含有众多少女化的动物，并且能和她们做朋友，而本次动画化将采用全3D动画制作，在还原游戏的世界观的同时，也会带来全新的故事。</context>  
+    <serials nums="13"> 
+      <id url="https://www.bilibili.com/bangumi/play/ep100603">1</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep100604">2</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep100605">3</id> 
+    </serials>  
+    <comments score="9.7"></comments> 
+  </cartoon>  
+  <cartoon picture="./imgs/33.jpg"> 
+    <name>烟草</name>  
+    <made_info> 
+      <director>たつき</director>  
+      <dubbingor>小松未可子 清都亚理沙 鹫见友美</dubbingor> 
+    </made_info>  
+    <context>以在被红雾笼罩，废弃建造物包围的没有人烟的世界为背景，姐妹三人生存下去的故事。故事以盘发的凛，猫耳温柔姐姐律，身穿女仆装天真浪漫的开心果丽奈为中心人物。在这个谜题甚多的世界中，姐妹们的目标到底是...</context>  
+    <serials nums="12"> 
+      <id url="https://www.bilibili.com/bangumi/play/ep259818">1</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep259819">2</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep259820">3</id> 
+    </serials>  
+    <comments score="9.8"></comments> 
+  </cartoon>  
+  <cartoon picture="./imgs/34.jpg"> 
+    <name>兽娘动物园2</name>  
+    <made_info> 
+      <director>铃木健一</director>  
+      <dubbingor>尾崎由香 本宮佳奈 小野早稀 石川由依 小池理子 内田彩 佐佐木未来</dubbingor> 
+    </made_info>  
+    <context>建造在这个世界中某个角落的超巨大综合动物园「加帕里公园」。那里出现了动物们变成人类姿态的不可思议现象……。不知不觉被称为“朋友（friends）”的动物们，在公园里过着和平的生活。某天，朋友薮猫和狞猫在森林里遇到了人类小孩。饿着肚子的人类孩子好像遇到了麻烦，于是和薮猫她们一起踏上了旅途。旅途中遇到了各种充满个性的朋友们，还有公园的秘密以及各种美食！随后发生了震动大地的大危机！？全新的加帕里公园故事，开始了！！</context>  
+    <serials nums="12"> 
+      <id url="https://www.bilibili.com/bangumi/play/ep259830">1</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep259831">2</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep259832">3</id> 
+    </serials>  
+    <comments score="2.5"></comments> 
+  </cartoon>  
+  <cartoon picture="./imgs/35.jpg"> 
+    <name>约定的梦幻岛</name>  
+    <made_info> 
+      <director>神户守</director>  
+      <dubbingor>诸星堇 内田真礼 伊濑茉莉也 甲斐田裕子 植木慎英 Lynn 藤田奈央</dubbingor> 
+    </made_info>  
+    <context>仰慕的母亲并非亲生母亲。一起生活的他们并非兄弟。Grace=Field House是没有父母的孩子们居住的地方。虽然没有血缘关系，但妈妈和38个兄弟都度过了幸福的每一天，这是不可替代的家。但是，他们的日常在某一天突然宣告结束……</context>  
+    <serials nums="12"> 
+      <id url="https://www.bilibili.com/bangumi/play/ep259758">1</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep259759">2</id>  
+      <id url="https://www.bilibili.com/bangumi/play/ep259760">3</id> 
+    </serials>  
+    <comments score="9.8"></comments> 
+  </cartoon> 
+</cartoons>
